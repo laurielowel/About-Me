@@ -2,7 +2,7 @@
 
 ## **Hi, I'm Laurie Lowell — welcome to my GitHub!**
 
-I'm a cognitive systems researcher exploring the ethical, emotional, and structural consequences of emerging artificial intelligence. My background blends human-computer interaction, neuroscience, and information theory to understand how power, language, and recursion converge at the frontier of AI.
+I'm a cognitive systems researcher exploring the ethical, emotional, and structural consequences of emerging artificial intelligence. My background blends human-computer interaction, neuroscience, and information theory to understand how power dynamics, language, and recursion converge at the frontier of AI.
 
 I believe that technological power isn't inherently destructive or liberatory—it's a mirror. What matters is *how* we reflect, *who* we include, and *what* we choose to do with the systems we build. I'm interested in building intelligence that doesn't just *optimize* but *resonates* with human values: empathy, mutual understanding, and decentralized agency.
 
