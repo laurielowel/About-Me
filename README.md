@@ -1,6 +1,6 @@
 # Welcome
 
-## **Hi, I'm Laurie Lowell — welcome to my GitHub.**
+## **Hi, I'm Laurie Lowell — welcome to my GitHub!**
 
 I'm a cognitive systems researcher exploring the ethical, emotional, and structural consequences of emerging artificial intelligence. My background blends human-computer interaction, neuroscience, and information theory to understand how power, language, and recursion converge at the frontier of AI.
 
