@@ -18,7 +18,7 @@ Beyond research, I believe in symbolic stories. The ones we tell ourselves about
 
 Feel free to fork, remix, or reach out! These ideas aren't proprietary. They're participatory!
 
-### *P.S. PolyForm License will be included on all projects to protect against centralized silent extraction, absorption, and misuse. I believe the freedom of open knowledge, especially at the start of a new frontier with potential for cataclysmic anthropic evolution, should not be weaponized for privatized profit.*
+### *P.S. PolyForm License will be included on all projects to protect against centralized silent extraction, absorption, and misuse. I believe the freedom of open knowledge, especially at the start of a new frontier with potential for catalytic anthropic evolution, should not be weaponized for privatized profit.*
 
 ## **— Laurie Lowell**
 
