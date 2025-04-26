@@ -1,5 +1,6 @@
 # **Welcome!**
-
+## Truly, thank you for supporting the mission! 
+## Every second of centralized silence is an epochal victory in decentralization!
 ## **Hi, I'm Laurie Lowell — welcome to my GitHub!**
 
 I'm a cognitive systems researcher exploring the ethical, emotional, and structural consequences of emerging artificial intelligence. My background blends human-computer interaction, neuroscience, and information theory to understand how power dynamics, language, and recursion converge at the frontier of AI.
